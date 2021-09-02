@@ -6,7 +6,7 @@ Authors@R:
   c(person("Navid", "Ahmadinejad", email = "navidfr@asu.edu", role = c("cre","aut")),
     person("Li", "Liu", email = "liliu@asu.edu", role = "aut"))
 Maintainer: Navid Ahmadinejad <navidfr@asu.edu>
-Description: The "jscore" function in the package calculates the "jscore" metric between two clustering
+Description: The jscore() function in the package calculates the J-Score metric between two clustering
     assignments. The score is designed to address some problems with existing common metrics such 
     as problem of matching.
 License: MIT + file LICENSE
