@@ -4,11 +4,11 @@
 #' @param pred A numeric vector of predicted class labels.
 #' @return Returns the j-score of the clustering assignment.
 #'
-#' @example
+#' @examples
 #' truth=c(1,1,1,1,1,2,2,2,2,2,3,3,3,3,3)
 #' pred= c(1,1,1,2,2,2,3,3,3,4,4,4,5,5,5)
-#' j= jscore(truth, pred)
-#' @export
+#' jscore(truth, pred)
+#' @export jscore
 jscore<- function(truth, pred){
   if(length(truth)==length(pred)){
   est.mat<-c()

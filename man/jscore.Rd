@@ -19,6 +19,6 @@ Calculates the j-score between two clustering assignment.
 }
 \examples{
 truth=c(1,1,1,1,1,2,2,2,2,2,3,3,3,3,3)
-pred=c(1,1,1,2,2,2,3,3,3,4,4,4,5,5,5)
+pred= c(1,1,1,2,2,2,3,3,3,4,4,4,5,5,5)
 jscore(truth, pred)
 }

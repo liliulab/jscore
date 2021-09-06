@@ -8,7 +8,7 @@ Authors@R:
 Maintainer: Navid Ahmadinejad <navidfr@asu.edu>
 Description: The jscore() function in the package calculates the J-Score metric between two clustering
     assignments. The score is designed to address some problems with existing common metrics such 
-    as problem of matching.
+    as problem of matching. The details of J-score is described in Ahmadinejad and Liu. (2021) <arXiv:2109.01306>.
 License: MIT + file LICENSE
 Encoding: UTF-8
 RoxygenNote: 7.1.1
