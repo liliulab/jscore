@@ -1,6 +1,8 @@
 ## J-score
 
-J-score measures similarities between two clustering structures.
+J-score measures similarities between two clustering structures. It is implemented as an R/CRAN library. 
+To use it in R,
+library(jScore)
 
 ### Citing J-score
 Ahmadinejad N, Liu L (2021). J-Score: A Robust Measure of Clustering Accuracy https://arxiv.org/abs/2109.01306
