@@ -1,4 +1,4 @@
-# jscore
+## J-score
 
 J-score measures similarities between two clustering structures.
 
